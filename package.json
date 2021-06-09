@@ -1,0 +1,24 @@
+{
+    "name": "@netsells/nuxt-vwo",
+    "version": "0.1.0",
+    "description": "Nuxt VWO plugin",
+    "files": [
+        "lib"
+    ],
+    "main": "lib/index.js",
+    "keywords": [
+        "Vue",
+        "Nuxt",
+        "VWO",
+        "nuxt-vwo"
+    ],
+    "repository": {
+        "url": "https://github.com/netsells/nuxt-vwo"
+    },
+    "author": {
+        "name": "Sam Turrell",
+        "url": "https://samturrell.co.uk",
+        "email": "sam.turrell@netsells.co.uk"
+    },
+    "license": "MIT"
+}
