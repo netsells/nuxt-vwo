@@ -1,6 +1,6 @@
 {
     "name": "@netsells/nuxt-vwo",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Nuxt VWO plugin",
     "files": [
         "lib"
